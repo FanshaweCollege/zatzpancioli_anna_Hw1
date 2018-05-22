@@ -1,0 +1,61 @@
+.hidden
+{
+    display: none;
+}
+
+body{
+	background-color: #E7E4DF;
+    font-family:'Gravity', Helvetica, Arial;
+    width: 1024px;
+    margin: 0 auto;
+    background: url(../images/background.jpg) repeat;
+    background-size: 1024px 1000px;
+    position: relative;
+}
+
+header {
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    margin-top: -10px;
+}
+
+img{
+    border: none;
+    margin:none;
+    padding: none;
+}
+
+p{
+	font-family: Helvetica, Arial;
+}
+
+#aboutImage{
+	margin-top: 30px;
+	position: relative;
+	float: left;
+}
+
+#aboutContainer{
+	margin-top: 20px;
+	width: 680px;
+	float: right;
+	padding: 10px;
+	height: 500px;
+	padding-left: 20px;
+}
+
+#aboutTitle{
+    font-family: Helvetica, Arial;
+    font-size: 32px;
+    float: left;
+    margin-top: 0px;
+    color: #0c0c0c;
+}
+
+#aboutText{
+	float: left;
+	margin-top: -15px;
+	margin-bottom: 0px;
+}
